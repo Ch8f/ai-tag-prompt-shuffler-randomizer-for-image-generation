@@ -322,3 +322,45 @@ Poyomi’s Tag Shuffler is meant to be a flexible tool for generating prompts qu
 I hope it helps make prompt creation easier, faster, and maybe even a bit more fun.
 
 Thanks for trying it out!
+
+---
+
+# Patch Notes
+## Patch 1.1
+- Added an info box to display the amount of cats, subs, and tags.
+
+- Added a “Generated prompts” counter that displays how many prompts have been generated with the current file/version.
+
+- Added coloring to the history panels to visually display which of the buttons generated a prompt: blue for “PG-13,” light red for “X,” deep red for “XXX,” and green for “Custom.”
+
+- Corrected some tags that were misplaced or misspelled.
+
+- Added new character categories with basic descriptions:
+
+  - Vocaloid
+
+    - Hatsune Miku
+
+    - Kasane Teto
+
+    - Akita Neru
+
+  - Mythic Talent
+
+    - Shylily
+
+    - Ironmouse
+
+  - Sousou no Frieren
+
+    - Frieren
+
+    - Fern
+
+  - HololiveEN members
+
+- Added a section that displays the current mode, blacklist or whitelist, and shows active tags from the black-/whitelist.
+
+- Added the option to save a custom preset and also load a preset within the custom section.
+
+---
